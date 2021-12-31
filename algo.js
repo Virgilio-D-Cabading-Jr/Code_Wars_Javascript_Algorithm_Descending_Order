@@ -24,4 +24,4 @@ console.log("Test num: 123456789 ||", descendingOrder(123456789));
 console.log("Test num: 1 ||", descendingOrder(1));
 console.log("Test num: 111 ||", descendingOrder(111));
 console.log("Test num: 15 ||", descendingOrder(15));
-// console.log("Test num:  ||", descendingOrder());
+console.log("Test num: 1021 ||", descendingOrder(1021));
