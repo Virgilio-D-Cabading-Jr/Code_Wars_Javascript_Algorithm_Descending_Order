@@ -9,7 +9,7 @@ function descendingOrder(n){
     for (x in num) {
         numList.push(parseInt(x));
     }
-    numList.sort();
+    numList.sort((a, b) => b - a);
     console.log("numList:", numList);
 }
 
