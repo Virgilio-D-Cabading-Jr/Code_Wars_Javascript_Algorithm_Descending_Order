@@ -7,8 +7,9 @@ function descendingOrder(n){
     let numList = [];
     console.log ("Num:", num);
     for (x in num) {
-        numList.push(x);
+        numList.push(parseInt(x));
     }
+    numList.sort();
     console.log("numList:", numList);
 }
 
