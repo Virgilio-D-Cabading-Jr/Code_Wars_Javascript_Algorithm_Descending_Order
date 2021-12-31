@@ -18,7 +18,7 @@ function descendingOrder(n){
 
 console.log("Test num: 12345 ||", descendingOrder(12345));
 console.log("Test num: 0 ||", descendingOrder(0));
-// console.log("Test num:  ||", descendingOrder(""));
-// console.log("Test num:  ||", descendingOrder(""));
+console.log("Test num: 42145 ||", descendingOrder(42145));
+console.log("Test num:  ||", descendingOrder());
 // console.log("Test num:  ||", descendingOrder(""));
 // console.log("Test num:  ||", descendingOrder(""));
